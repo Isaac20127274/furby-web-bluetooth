@@ -15,7 +15,7 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
+        "file": "FurbyDLC-artive.torrent", 
         "title": "Audio only",
         "buttons": [
             { "title": "Audio test ", "action": [75,0,4,4] }
