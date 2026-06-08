@@ -1,8 +1,7 @@
 # FurBLE by furby - Furby Web Bluetooth Demo
 Use Web Bluetooth to give your Furby Connect a little um ah oh yes swazz! Tested with furby and indeed works.
 
-## [Try it out](https://isaac20127274.github.io/furby-web-bluetooth/furble.html)  or read [our blog](https://www.contextis.com/blog/dont-feed-them-after-midnight-reverse-engineering-the-furby-connect)
-
+## [Try it out](https://isaac20127274.github.io/furby-web-bluetooth/furble.html)
 <img src="images/furby1.jpg" width="500">
 
 
