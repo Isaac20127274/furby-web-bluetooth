@@ -1,14 +1,14 @@
 [
     { 
-        "file": "context.dlc", 
-        "title": "Context Logo",
+        "file": "tr002590.dlc", 
+        "title": "error furby",
         "buttons": [
             { "title": "Logo", "action": [75,0,4,4] }
         ]
     },
     { 
-        "file": "hacked.dlc", 
-        "title": "HACKED",
+        "file": "tr002590.dlc", 
+        "title": "error",
         "buttons": [
             { "title": "Hacked 1", "action": [75,0,3,4] },
             { "title": "Hacked 2", "action": [75,0,4,4] }
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "file": "tu00150", 
+        "file": "tu00150.dlc", 
         "title": "tu00150",
         "buttons": [
             { "title": "Chilli ", "action": [75,0,3,3] }
