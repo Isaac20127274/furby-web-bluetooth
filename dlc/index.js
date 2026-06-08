@@ -15,8 +15,8 @@
         ]
     },
     {
-        "file": "FurbyDLC-artive.torrent", 
-        "title": "Audio only",
+        "file": "logo.png", 
+        "title": "Audio ",
         "buttons": [
             { "title": "Audio test ", "action": [75,0,4,4] }
         ]
