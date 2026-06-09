@@ -15,10 +15,10 @@
         ]
     },
     {
-        "file": "", 
-        "title": "Audio ",
+        "file": "tu002560.dlc", 
+        "title": "idk444444",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "fail i bet ", "action": [75,0,4,4] }
         ]
     },
     {
