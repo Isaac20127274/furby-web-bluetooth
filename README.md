@@ -10,5 +10,4 @@ Use Web Bluetooth to give your Furby Connect a little um ah oh yes swazz! Tested
 - first factory reset you furby connect
 - to do this tip upside down then pull and press the tali and mouth then your ready
 - now theres two dlc to currupt you furby connect first being error second being errrrrrrror furby
-- now soon there will second dlc from the app that is going to be the exs and os and make some noise
-- curruntly theres only one good one  
+- BIG DISCOVORY EXS AND OHS HAS BEEN FOUND ALONG WITH CHEEP THRILLS AND PINGPONG CAT  
