@@ -3,7 +3,7 @@
         "file": "tr002590.dlc", 
         "title": "errrrror furby",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "Log0", "action": [75,0,4,4] }
         ]
     },
     { 
