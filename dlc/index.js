@@ -7,15 +7,15 @@
         ]
     },
     { 
-        "file": "tr002590.dlc", 
-        "title": "error",
+        "file": "tr003410.dlc", 
+        "title": "idk",
         "buttons": [
-            { "title": "Hacked 1", "action": [75,0,3,4] },
-            { "title": "Hacked 2", "action": [75,0,4,4] }
+            { "title": "idk 1", "action": [75,0,3,4] },
+            { "title": "idk2", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "logo.png", 
+        "file": "", 
         "title": "Audio ",
         "buttons": [
             { "title": "Audio test ", "action": [75,0,4,4] }
