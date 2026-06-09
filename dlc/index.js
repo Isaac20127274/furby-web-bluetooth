@@ -1,7 +1,7 @@
 [
     { 
-        "file": "tr002590.dlc", 
-        "title": "errrrror furby",
+        "file": "tu003410.dlc", 
+        "title": " furby",
         "buttons": [
             { "title": "Log0", "action": [75,0,4,4] }
         ]
