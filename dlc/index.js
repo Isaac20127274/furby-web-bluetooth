@@ -7,7 +7,7 @@
         ]
     },
     { 
-        "file": "tr003410.dlc", 
+        "file": "tu003410.dlc", 
         "title": "idk",
         "buttons": [
             { "title": "idk 1", "action": [75,0,3,4] },
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "file": "tu002560.dlc", 
+        "file": "tu002560 (1).dlc", 
         "title": "idk444444",
         "buttons": [
             { "title": "fail i bet ", "action": [75,0,4,4] }
