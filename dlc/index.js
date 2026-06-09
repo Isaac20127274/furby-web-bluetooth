@@ -8,10 +8,10 @@
     },
     { 
         "file": "tu002560.dlc", 
-        "title": "idk",
+        "title": "furby",
         "buttons": [
-            { "title": "idk 1", "action": [75,0,3,4] },
-            { "title": "idk2", "action": [75,0,4,4] }
+            { "title": "furby", "action": [75,0,3,4] },
+            { "title": "furby must sinnnnnnnnnnnnnnnnnnnng", "action": [75,0,4,4] }
         ]
     },
     {
