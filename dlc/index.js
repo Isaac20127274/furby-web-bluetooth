@@ -15,8 +15,8 @@
         ]
     },
     {
-        "file": "tu002560 (1).dlc", 
-        "title": "idk444444",
+        "file": "tr002590.dlc", 
+        "title": "tr002590",
         "buttons": [
             { "title": "fail i bet ", "action": [75,0,4,4] }
         ]
