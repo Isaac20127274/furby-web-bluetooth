@@ -3,7 +3,7 @@
         "file": "tr002590.dlc", 
         "title": "glitch",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "glitch", "action": [75,0,4,4] }
         ]
     },
     { 
